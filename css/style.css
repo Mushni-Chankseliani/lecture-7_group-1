@@ -136,6 +136,9 @@
 
 .section-6-img {
 	width: 360px;
+	box-shadow: -1px 16px 23px -1px rgba(251,186,119,0.75);
+	-webkit-box-shadow: -1px 16px 23px -1px rgba(251,186,119,0.75);
+	-moz-box-shadow: -1px 16px 23px -1px rgba(251,186,119,0.75);
 }
 
 .section-6-img > img {
